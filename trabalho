@@ -1,7 +1,0 @@
-echo "#TrabEscobar" >> README.md 
-git init 
-git add README.md 
-git commit -m "primeiro commit" 
-git branch -M main 
-git remote add origin git@github.com:FabricioEdu97/TrabEscobar.git
- git push -u origin diretor
